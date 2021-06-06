@@ -63,7 +63,7 @@ searchInputBox.addEventListener('keypress', (event) => {
 
      } else if(weatherType.textContent == 'Haze'){
      
-    document.body.style.backgroundImage = "url('images/haze4.jpg')";
+    document.body.style.backgroundImage = "url('images/haze.jpg')";
      }
      }
 
